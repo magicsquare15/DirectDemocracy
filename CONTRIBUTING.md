@@ -26,7 +26,7 @@ that e-mails which do not pertain to security vulnerabilities in reddit's code
 will be ignored.
 
 4. Please adhere to our [coding
-standards](https://github.com/reddit/reddit/wiki#change-reddit).
+standards](https://github.com/votezilla/votezilla/wiki#change-reddit).
 
 5. Please don't submit PRs that are just whitespace, style or readability
 changes. We prefer to make those changes when we're working with the code

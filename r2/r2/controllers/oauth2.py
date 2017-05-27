@@ -349,7 +349,7 @@ class OAuth2AccessController(MinimalController):
         **redirect_uri** must exactly match the value that was used in the call
         to [/api/v1/authorize](#api_method_authorize) that created this grant.
 
-        See reddit's [OAuth2 wiki](https://github.com/reddit/reddit/wiki/OAuth2) for
+        See reddit's [OAuth2 wiki](https://github.com/votezilla/votezilla/wiki/OAuth2) for
         more information.
 
         """

@@ -142,7 +142,7 @@ def fetch_listing(path, limit=1000, batch_size=100):
             break
 
         # obey reddit.com's ratelimits
-        # see: https://github.com/reddit/reddit/wiki/API#rules
+        # see: https://github.com/votezilla/votezilla/wiki/API#rules
         time.sleep(2)
 
 

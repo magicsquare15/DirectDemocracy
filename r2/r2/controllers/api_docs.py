@@ -102,7 +102,7 @@ def api_doc(section, uses_site=False, **kwargs):
         root_dir = g.paths['root']
         if file_path.startswith(root_dir):
             doc['relfilepath'] = relpath(file_path, root_dir)
-            doc['source_root_url'] = "https://github.com/reddit/reddit/blob/master/r2/r2/"
+            doc['source_root_url'] = "https://github.com/votezilla/votezilla/blob/master/r2/r2/"
         else:
             for plugin in g.plugins:
                 plugin_root = plugin.path

@@ -155,7 +155,7 @@ SAFE_PROPERTIES = {
     "empty-cells",
     # the "filter" property cannot be safely added while IE9 is allowed to
     # use subreddit stylesheets. see explanation here:
-    # https://github.com/reddit/reddit/pull/1058#issuecomment-76466180
+    # https://github.com/votezilla/votezilla/pull/1058#issuecomment-76466180
     # "filter",
     "flex",
     "flex-align",

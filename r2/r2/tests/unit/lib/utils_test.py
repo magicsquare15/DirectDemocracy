@@ -426,8 +426,8 @@ class UtilsTest(unittest.TestCase):
         )
 
         self.assertEquals(
-            utils.sanitize_url('https://github.com/reddit/reddit/pull/1302'),
-            'https://github.com/reddit/reddit/pull/1302'
+            utils.sanitize_url('https://github.com/votezilla/votezilla/pull/1302'),
+            'https://github.com/votezilla/votezilla/pull/1302'
         )
 
         self.assertEquals(

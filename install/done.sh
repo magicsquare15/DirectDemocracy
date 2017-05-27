@@ -49,8 +49,8 @@ or target specific ones:
 
 See the GitHub wiki for more information on these jobs:
 
-* https://github.com/reddit/reddit/wiki/Cron-jobs
-* https://github.com/reddit/reddit/wiki/Services
+* https://github.com/votezilla/votezilla/wiki/Cron-jobs
+* https://github.com/votezilla/votezilla/wiki/Services
 
 The reddit code can be shut down or started up with
 
