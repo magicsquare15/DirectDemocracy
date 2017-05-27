@@ -14,6 +14,7 @@ build/
 dist/
 r2/r2.egg-info/
 r2/r2/lib/generated_strings.py
+r2/r2/lib/contrib/activity_thrift/
 
 # ini files
 *.ini
